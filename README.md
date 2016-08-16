@@ -1,2 +1,4 @@
 # bookish-octo-guacamole
-My first repository 
+My first repo
+
+Thanks for stopping by.
